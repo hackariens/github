@@ -24,8 +24,10 @@
 ### 🏠 [Homepage](https://github.com/koromerzhin/template-github#readme)
 
 ## Need
+
 Software:
- - make
+
+- make
 
 ## Install
 
@@ -49,10 +51,10 @@ make git-commit
 
 👤 **koromerzhin**
 
-* Website: https://www.letoullec.fr
-* Twitter: [@koromerzhin](https://twitter.com/koromerzhin)
-* Github: [@koromerzhin](https://github.com/koromerzhin)
-* LinkedIn: [@koromerzhin](https://linkedin.com/in/koromerzhin)
+- Website: https://www.letoullec.fr
+- Twitter: [@koromerzhin](https://twitter.com/koromerzhin)
+- Github: [@koromerzhin](https://github.com/koromerzhin)
+- LinkedIn: [@koromerzhin](https://linkedin.com/in/koromerzhin)
 
 ## 🤝 Contributing
 
@@ -66,7 +68,8 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [koromerzhin](https://github.com/koromerzhin).<br /> This
-project is [MIT](https://github.com/koromerzhin/template-github/blob/master/LICENSE)
+project is
+[MIT](https://github.com/koromerzhin/template-github/blob/master/LICENSE)
 licensed.
 
 ## ✨ Contributors
