@@ -11,7 +11,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href="#-contributors"><img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="All Contributors" /></a>
+<a href="#-contributors"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square" alt="All Contributors" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <a href="https://twitter.com/koromerzhin">
     <img alt="Twitter: koromerzhin" src="https://img.shields.io/twitter/follow/koromerzhin.svg?style=social" target="_blank" />
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://github.com/koromerzhin"><img src="https://avatars0.githubusercontent.com/u/308012?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Le TOULLEC Martial</b></sub></a><br /><a href="https://github.com/koromerzhin/template-github/commits?author=koromerzhin" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/apps/renovate"><img src="https://avatars1.githubusercontent.com/in/2740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>renovate[bot]</b></sub></a><br /><a href="#tool-renovate[bot]" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/apps/restyled-io"><img src="https://avatars0.githubusercontent.com/in/5851?v=4?s=100" width="100px;" alt=""/><br /><sub><b>restyled-io[bot]</b></sub></a><br /><a href="#tool-restyled-io[bot]" title="Tools">🔧</a></td>
   </tr>
 </table>
 
