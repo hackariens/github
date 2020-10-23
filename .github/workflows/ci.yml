@@ -22,7 +22,7 @@ jobs:
         id: npm-cache
         run: echo "::set-output name=dir::$(package-lock.json)"
       - name: Cache npm dependencies
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         env:
           cache-name: cache-node-modules
         with:
