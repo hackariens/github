@@ -27,4 +27,4 @@ git-check: node_modules ## CHECK before
 	@git status
 
 linter-readme: node_modules ## linter README.md
-	@npm run linter-readme README.md
+	@npm run linter-markdown README.md

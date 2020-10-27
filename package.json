@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Template de nouveau repository",
   "scripts": {
-    "linter-readme": "markdown",
+    "linter-markdown": "markdown",
     "contributors": "all-contributors",
     "changelog": "gitmoji-changelog",
     "readme": "readme",
