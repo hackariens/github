@@ -12,8 +12,6 @@
 
 ![Continuous Integration](https://github.com/koromerzhin/template-github/workflows/Continuous%20Integration/badge.svg?branch=develop)
 
-</p>
-
 > Template de nouveau repository
 
 ## 🏠 [Homepage](https://github.com/koromerzhin/template-github#readme)
@@ -41,6 +39,12 @@ make git-check
 
 ```sh
 make git-commit
+```
+
+## Help
+
+```sh
+make help
 ```
 
 ## Author
