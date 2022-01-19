@@ -21,10 +21,9 @@
   },
   "homepage": "https://github.com/koromerzhin/template-github#readme",
   "devDependencies": {
-    "all-contributors-cli": "6.20.0",
-    "generate-changelog": "1.8.0",
-    "license-checker": "25.0.1",
-    "markdownlint-cli": "0.28.1",
-    "readme-md-generator": "1.0.0"
+    "generate-changelog": "1.8.0"
+  },
+  "dependencies": {
+    "koromerzhin-dependencies": "^1.1.1"
   }
 }
