@@ -20,6 +20,14 @@ Software:
 - make
 - npm
 
+## Download
+
+```sh
+git clone git@github.com:koromerzhin/template-github.git template-github
+cd template-github
+git submodule update --init
+```
+
 ## Install
 
 ```sh
